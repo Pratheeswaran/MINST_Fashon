@@ -31,9 +31,3 @@ class Net(nn.Module):
         for s in size:
             num_features *= s
         return num_features
-
-
-
-
-
-
